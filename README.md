@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hi,%20I'm%20Mulooki&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hi,%20I'm%20MULOOKI SAMUEL EMMANUEL&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Founder+of+Malachi+Printing+Solutions;Cybersecurity+%26+Digital+Forensics+Student;Web+Developer+%7C+Freelancer+%7C+Content+Creator;Building+solutions+with+Machine+Learning;Based+in+Kampala,+Uganda+%F0%9F%87%BA%F0%9F%87%AC" alt="Typing intro"/>
